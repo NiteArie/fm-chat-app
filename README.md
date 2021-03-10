@@ -10,3 +10,13 @@ When an existing user visits the Chat App, read the account data e.g. from local
 Group Chat should show the number of users being online, messages from all the users (note: optionally can skip historical messages for new users or keep all the history as you will), information about new users joining, existing users leaving and an online dot indicator (green - online, gray - offline).
 * Users should be able to add messages through the input with the ability to select emoji using an emoji picker. Messages should be sent by clicking on a button or/and e.g. by using Enter key.
 * "My" messages should show on the right, other user's messages should show on the left.
+
+## Additional Requirements
+
+* Show "is typing" UI when a user is typing.
+* Show "unread" messages indicator.
+* Add ability to start a direct chat with a user.
+* Add ability to block a user to prevent seeing his/her messages on Group Chat and prevent him/her from starting a direct chat with you or/and end any started direct chat.
+* Add sound notification when a new message is received and add mute functionality to mute either group or private (DM) chat.
+* Add API tests to your code, using e.g. Mocha & Chai.
+* Add e2e tests to your code, using e.g. cypress.
