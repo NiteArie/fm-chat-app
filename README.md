@@ -1,5 +1,9 @@
 # fm-chat-app (Chat App)
 
+## Design Preview
+
+Adobe XD Design: [https://xd.adobe.com/view/be6f9ce2-8760-4991-b7df-c3ade3c11d0a-eb3c/](https://xd.adobe.com/view/be6f9ce2-8760-4991-b7df-c3ade3c11d0a-eb3c/)
+
 ## Requirements
 
 * The website looks similar to the design (Desktop and Mobile) and is available for users through a link.
